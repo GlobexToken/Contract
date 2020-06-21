@@ -1,4 +1,4 @@
 Official Contract of GlobeX Token (GEX)
-Contract Address : 0x66142B81db17d7c0bd91f502D00382e326a24c2a
-Official Website : https://globex.site/
-Email : contact@globex.site
+Contract Address : 0x03282f2D7834a97369Cad58f888aDa19EeC46ab6
+Official Website : https://globex.pro
+Email : contact@globex.pro
